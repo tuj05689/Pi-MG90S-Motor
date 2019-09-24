@@ -16,8 +16,6 @@ setup(
 
     url='https://github.com/tuj05689/Pi-MG90S-Motor',
 
-    #### url='https://github.com/DonStoddard5/ECE4422/tree/master/DSWServo',
-
     author='Adam Pienkowski',
 
     author_email='tuj05689@temple.edu',
