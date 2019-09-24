@@ -9,4 +9,4 @@ Add permissions
 
 run setup
 
-# python setup.py
+# sudo python setup.py install
