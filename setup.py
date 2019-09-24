@@ -14,7 +14,7 @@ setup(
 
     description='Python code to control a MG90S servo on a Raspberry Pi',
 
-    url='https://github.com/tuj05689/Pi-MG90S-Motor/tree/master/Motor',
+    url='https://github.com/tuj05689/Pi-MG90S-Motor',
 
     #### url='https://github.com/DonStoddard5/ECE4422/tree/master/DSWServo',
 
