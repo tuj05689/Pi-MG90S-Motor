@@ -14,5 +14,5 @@ run setup
 Connect the motor to the rasberry pi
 # Brown is ground
 # Red is 3.3 Volts
-#Orange is PWM control
+# Orange is PWM control
   # Using Pin 13
